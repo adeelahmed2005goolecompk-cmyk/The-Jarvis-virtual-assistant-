@@ -17,7 +17,8 @@ Libraries such as SpeechRecognition and pyttsx3 can be used for voice interactio
 Artificial intelligence can make the assistant more capable of understanding commands.
 The assistant can be designed to respond to specific keywords or wake words.
 Jarvis can be extended with new commands and features according to user requirements.
-Overall, a virtual assistant provides an interactive way to control tasks using natural language and voice commands.**
+Overall, a virtual assistant provides an interactive way to control tasks using natural language and voice commands.
+and one more thing is that this program wants your api key**
 
 
 
