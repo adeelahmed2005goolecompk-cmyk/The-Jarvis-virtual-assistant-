@@ -1,7 +1,7 @@
-# The-Jarvis-virtual-assistant-
+# The-Jarvis(virtual-assistant)
 
 
-##Theory about Jarvis
+## Theory about Jarvis
 
 **Jarvis is a virtual assistant designed to interact with users through voice or text commands.
 It can listen to the user's instructions and perform different tasks automatically.
